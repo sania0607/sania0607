@@ -58,9 +58,16 @@ I enjoy building intuitive interfaces, smart tools, and learning how technology 
   <img src="https://img.shields.io/badge/Google-Gemini-brightgreen?logo=google"/>
 </p>
 
+
 ---
+### 🧑‍💻 Languages I Use Most
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sania0607&layout=compact&theme=radical" />
+</p>
 
 
+---
 
 ### 📊 GitHub Stats
 
@@ -69,11 +76,14 @@ I enjoy building intuitive interfaces, smart tools, and learning how technology 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sania0607&theme=radical" height="180"/>
 </p>
 
----
 
+
+---
 <table>
 <tr>
 <td valign="top" width="60%">
+
+
 
 ### 🌐 Let's Connect
 
