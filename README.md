@@ -1,18 +1,89 @@
 <h1 align="center">Hi 👋, I'm Sania Rajput</h1>
-<h3 align="center">Aspiring Developer Exploring Web, Python & Real-World Projects</h3>
+<h3 align="center">Aspiring Developer | Passionate About AI, Web Development & Building Impactful Projects</h3>
 
-- 🌱 I’m currently learning **React, Python,Nodejs, SQL**
+---
 
-- 📫 How to reach me **saniarajput0607@gmail.com**
+### 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+I'm an engineering student currently exploring how code can solve real-world problems.  
+My passion lies at the intersection of **AI/ML**, **OpenCV**, and **full-stack development**.  
+I enjoy building intuitive interfaces, smart tools, and learning how technology can create social impact.
+
+- 🌱 **Currently Learning:** Machine Learning, OpenCV, Deep Learning, Model Deployment  
+- 🔧 **Tech Stack:** Python, React, Node.js, SQL, JavaScript  
+- 🛠️ **Interests:** Computer Vision, Climate Tech, Chatbots, AI-based Web Tools  
+- 📫 Reach me: **saniarajput0607@gmail.com** | [LinkedIn](https://www.linkedin.com/in/saniarajput06/)
+
+---
+
+
+
+### 🛠️ Tech Skills
+
+#### 👩‍💻 Languages  
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saniarajput06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saniarajput06/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/saniarajput0607/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saniarajput0607/" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+#### 🌐 Web Development  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+#### 🤖 AI / ML & Data  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-FA7E1E?style=flat&logo=scikit-learn&logoColor=white"/> &nbsp;
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat&logo=python&logoColor=white"/>
+</p>
+
+#### 🧰 Tools & Platforms  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> &nbsp;
+  <img src="https://img.shields.io/badge/Postman-API-orange?logo=postman"/> &nbsp;
+  <img src="https://img.shields.io/badge/VSCode-Code-blue?logo=visualstudiocode"/> &nbsp;
+  <img src="https://img.shields.io/badge/Google-Gemini-brightgreen?logo=google"/>
+</p>
+
+---
+
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sania0607&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sania0607&theme=radical" height="180"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/saniarajput06/)
+- 💻 [LeetCode](https://leetcode.com/saniarajput0607/)
+- 📫 **Email:** saniarajput0607@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sania0607&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+</p>
+
+---
+
+> *“Build what you wish existed.”*
 
 
 
