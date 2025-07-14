@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sania Rajput</h1>
-<h3 align="center">Aspiring Developer | Passionate About AI, Web Development & Building Impactful Projects</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+AI+Developer;Web+Developer;Machine+Learning+Explorer;Loves+Building+Cool+Things" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -69,19 +71,24 @@ I enjoy building intuitive interfaces, smart tools, and learning how technology 
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ### 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saniarajput06/)
 - 💻 [LeetCode](https://leetcode.com/saniarajput0607/)
 - 📫 **Email:** saniarajput0607@gmail.com
 
----
+</td>
+<td width="40%" align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sania0607&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-</p>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
 
----
+</td>
+</tr>
+</table>
 
 > *“Build what you wish existed.”*
 
